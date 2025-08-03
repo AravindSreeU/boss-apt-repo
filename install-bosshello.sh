@@ -13,4 +13,4 @@ sudo apt update
 echo "🚀 Installing bosshello..."
 sudo apt install bosshello -y
 
-echo "✅ Done! Type 'bosshello' to speak like a boss 😎"
+echo "Greetings User"
